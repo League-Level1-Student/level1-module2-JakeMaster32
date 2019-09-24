@@ -38,7 +38,7 @@ class Kettle {
 	}
 
 	void boil() {
-		this.water.isHot = true;
+		 this.water.isHot = true;
 	}
 
 	class Water {
